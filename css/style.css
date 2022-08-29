@@ -9,7 +9,7 @@
 @font-face {
 	font-family: 'ukraine';
 	font-display: swap;
-	src: url("../fonts/calsans-semibold.otf");
+	src: url("../fonts/e-Ukraine-Regular.otf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -308,7 +308,7 @@ p{
     z-index: 3;
 }
 .info-main__title,.title{
-    font-family: 'Cal Sans';
+    font-family: 'ukraine';
     font-style: normal;
     font-weight: 600;
     font-size: 55px;
